@@ -1,0 +1,15 @@
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/bin/Debug/net6.0/Example003_Minus
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/bin/Debug/net6.0/Example003_Minus.deps.json
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/bin/Debug/net6.0/Example003_Minus.runtimeconfig.json
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/bin/Debug/net6.0/Example003_Minus.dll
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/bin/Debug/net6.0/Example003_Minus.pdb
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.csproj.AssemblyReference.cache
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.AssemblyInfoInputs.cache
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.AssemblyInfo.cs
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.csproj.CoreCompileInputs.cache
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.dll
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/refint/Example003_Minus.dll
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.pdb
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/Example003_Minus.genruntimeconfig.cache
+/Users/amgalankhabarkov/Desktop/Examples/Example003_Minus/obj/Debug/net6.0/ref/Example003_Minus.dll
